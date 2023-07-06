@@ -20,7 +20,7 @@ setuptools.setup(
     description="Small python package",
     long_description=long_description,
     long_description_content="text/markdown",
-    url=REPO_URL
+    url=REPO_URL,
     project_urls = {
         "Bug Tracker": f"{REPO_URL}/issues"
     },
